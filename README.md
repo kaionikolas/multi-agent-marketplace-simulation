@@ -123,6 +123,19 @@ This command:
 
 ---
 
+## Example Results
+
+### Price Evolution
+![Price Evolution](logs/price_evolution.png)
+
+### Trade Volume
+![Trade Volume](logs/trade_volume.png)
+
+### Wealth Distribution
+![Wealth Distribution](logs/wealth_distribution.png)
+
+---
+
 ## Observability & Evaluation
 
 The system is designed to be easily inspectable and evaluator-friendly:
@@ -154,4 +167,6 @@ The system is designed to be easily inspectable and evaluator-friendly:
 - Generative Agents: Interactive Simulacra of Human Behavior
 
 - Agent Laboratory — Framework for Autonomous Agent Research
+
+
 
