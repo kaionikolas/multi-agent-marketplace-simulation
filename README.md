@@ -46,7 +46,7 @@ marketplace_sim/
 ├── simulation/ # End-to-end simulation runner
 ├── experiments/ # Metrics computation and plotting
 ├── logs/ # Execution logs
-
+````
 ---
 
 ### Component Responsibilities
@@ -100,6 +100,7 @@ Emergent behavior arises naturally from repeated interactions and local decision
 ```md
 ```bash
 pip install matplotlib
+```
 
 ### Run the Simulation
 
@@ -108,6 +109,7 @@ From the project root directory:
 ```md
 ```bash
 python -m simulation.run_simulation
+```
 
 This command:
 
@@ -152,3 +154,4 @@ The system is designed to be easily inspectable and evaluator-friendly:
 - Generative Agents: Interactive Simulacra of Human Behavior
 
 - Agent Laboratory — Framework for Autonomous Agent Research
+
